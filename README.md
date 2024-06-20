@@ -34,17 +34,19 @@
 
 | Languages     | Experience    | 
 | ------------- |:-------------:| 
-| HTML,CSS      | 10 years      |   
-| C#            | 7  years      |
+| HTML,CSS      | 7  years      |   
+| C#            | 5  years      |
 | Java          | 1  year       |  
 
 ______
 
-### Github Video Tutorial
+<div align="center">
 
+### Git & Github Video Tutorial
+  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tRZGeaHPoaw
 " target="_blank"><img src="http://img.youtube.com/vi/tRZGeaHPoaw/0.jpg" 
-alt="Github tutorial" width="240" height="180" border="10" /></a>
-
+alt="Github tutorial" width="800" height="600" border="10" /></a>  
+</div>
 
 [^1]:Worked more than 10 years ago as software developer in Ukraine
