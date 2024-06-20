@@ -18,6 +18,9 @@
 * Olena
 * Natali
 * Michael
+* Raul
+* Marc
+  
 
 ### Classmates Original Countries
 1. Ukraine
